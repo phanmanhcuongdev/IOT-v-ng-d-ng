@@ -2,8 +2,6 @@
 
 ## Mục tiêu
 
-Bản này là phiên bản đã chỉnh lại để tránh lỗi parser: toàn bộ nội dung nằm trong **một code block duy nhất** và không dùng nested triple-backticks bên trong.
-
 Roadmap này dành cho người đã mạnh về:
 
 - Backend development
