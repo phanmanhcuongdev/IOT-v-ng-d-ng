@@ -57,4 +57,4 @@ Repository hiện là tài liệu roadmap. Nếu sau này bổ sung code Platfor
 
 ## License
 
-Chưa khai báo license.
+MIT License. Xem chi tiết tại [LICENSE](LICENSE).
